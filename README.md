@@ -1,4 +1,4 @@
-# TS-NODE-TEMPLATE
+  <h1>Pilhas em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt="Typescript" height=30/></h1>
 
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,8 +13,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - NodeJS
 
 ## 💻 Projeto
+Uma "Pilha" é um tipo especial de "Lista":
+- Inserções e exclusões de elementos ocorrem apenas elementos no início da "lista"
 
-Esse projeto foi construído para servir de apoio no estudo de node com typescript.
+Em uma "Pilha" podemos realizar as seguintes operações básicas:
+- inserção de um elemento no "início"
+- exclusão de um elemento do "início"
+- acesso ao elemento do "início"
+
 
 # Oque e preciso?
   - Ter o [NodeJS](https://nodejs.org/) instalado na sua máquina.
