@@ -1,18 +1,19 @@
-  <h1>Pilhas em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt="Typescript" height=30/></h1>
+<h1 align="center"> Pilhas em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" height=30/> </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## 🚀 Tecnologias
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+<br>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 👩🏻‍💻 Projeto
 
-- Typescript
-- NodeJS
-
-## 💻 Projeto
 Uma "Pilha" é um tipo especial de "Lista":
 - Inserções e exclusões de elementos ocorrem apenas elementos no início da "lista"
 
@@ -21,15 +22,38 @@ Em uma "Pilha" podemos realizar as seguintes operações básicas:
 - exclusão de um elemento do "início"
 - acesso ao elemento do "início"
 
+## 🚀 Tecnologias
 
-# Oque e preciso?
-  - Ter o [NodeJS](https://nodejs.org/) instalado na sua máquina.
-	  - Stable version (v18.7.0^) is recommended
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Como utilizar?
+- Typescript
+- NodeJS
 
-1. Baixe esse repositório e com o seu o terminal, entre no diretório
+## :floppy_disk: Instalando / Começando
 
-2. Rode o comando `npm install` para instalar as dependências
+Uma rápida introdução à configuração mínima necessária para executar o aplicativo.
 
-3. E pra iniciar a aplicação, rode o comando `npm dev`
+### Instalar dependências do projeto:
+
+- [NodeJS](https://nodejs.org/)
+  - Stable version (v18.7.0^) é recomendado
+
+### Configuração após a instalação [NodeJS](https://nodejs.org/):
+
+1. `yarn` || `npm i ` || `pnpm i`
+2. `npm run dev`
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+#### Feito com ♥ by Ryan Oliveira
+
+<div>
+<p align="left">
+<a href="https://www.linkedin.com/in/ryanolivr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato.ryanolivr@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/ryanolivrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
